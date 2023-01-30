@@ -1,43 +1,4 @@
 <footer>
-    <div class="icons">
-        <ul>
-            <li>
-                <a href="/">
-                    <img src="{{ Vite::asset('resources/img/buy-comics-digital-comics.png') }}" alt="Digital Comics">
-                    Digital Comics
-                </a>
-            </li>
-
-            <li>
-                <a href="/">
-                    <img src="{{ Vite::asset('resources/img/buy-comics-merchandise.png') }}" alt="Dc Merchandise">
-                    Dc Merchandise
-                </a>
-            </li>
-
-            <li>
-                <a href="/">
-                    <img src="{{ Vite::asset('resources/img/buy-comics-subscriptions.png') }}" alt="Subscription">
-                    Subscription
-                </a>
-            </li>
-
-            <li>
-                <a href="/">
-                    <img src="{{ Vite::asset('resources/img/buy-comics-shop-locator.png') }}" alt="Comic Shop Locator">
-                    Comic Shop Locator
-                </a>
-            </li>
-
-            <li>
-                <a href="/">
-                    <img src="{{ Vite::asset('resources/img/buy-dc-power-visa.svg') }}" alt="Dc Power Visa">
-                    Dc Power Visa
-                </a>
-            </li>
-        </ul>
-    </div>
-
     <div class="container">
         <div class="list-links">
             <div class="footer-list">
@@ -200,6 +161,13 @@
                     </li>
                 </ul>
             </div>
+        </div>
+
+
+        <div class="copyright">
+            All site Content TM and &copy; 2020 DC Entertainment, unless otherwise <a href="/">noted here</a>. All right reserved.
+            <br>
+            <a href="/">Cookies Settings</a>
         </div>
     </div>
 
