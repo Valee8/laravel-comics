@@ -17,6 +17,6 @@ Route::get('/', function () {
     return view('layouts.main-layout');
 });
 
-Route::get('/content', function () {
-    return view('content');
-});
+// Route::get('/content', function () {
+//     return view('content');
+// });
