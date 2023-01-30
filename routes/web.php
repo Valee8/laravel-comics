@@ -17,6 +17,10 @@ Route::get('/', function () {
     return view('layouts.main-layout');
 });
 
-// Route::get('/content', function () {
-//     return view('content');
-// });
+Route::get('/', function () {
+    return view('pages.list-cards');
+});
+
+Route::get('/card', function () {
+    return view('pages.card');
+});
