@@ -1,4 +1,19 @@
 <header>
+
+    <div class="header-top">
+
+        <div class="container">
+            <a href="">
+                DC POWER VISA &reg;
+            </a>
+
+            <a href="/">
+                ADDITIONAL DC SITES <span>▼</span>
+            </a>
+        </div>
+                
+    </div>
+
     <nav>
         <div class="container">
 
@@ -64,8 +79,12 @@
 
                 <li>
                     <a href="/">
-                        Shop
+                        Shop <span>&dtrif;</span>
                     </a>
+                </li>
+
+                <li class="search">
+                    <input type="search" placeholder="Search" class="search-input"> <i class="fa-solid fa-magnifying-glass"></i>
                 </li>
             </ul>
         </div>
