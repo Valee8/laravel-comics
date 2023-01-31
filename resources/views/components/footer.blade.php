@@ -58,7 +58,7 @@
                     </li>
                     <li>
                         <a href="/">
-                            Privacy policy(New)
+                            Privacy policy (New)
                         </a>
                     </li>
                     <li>
