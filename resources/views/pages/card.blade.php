@@ -4,11 +4,11 @@
     
     <div class="single-card">
 
-        <div class="comic">
+        <div class="series">
             <div class="container">
-                <div class="comic-img">
+                <div class="series-img">
                     <img src="https://www.dccomics.com/sites/default/files/styles/covers192x291/public/comic-covers/2018/09/AC1000_DLX_162-001_HD_5ba13723281ab0.37845353.jpg?itok=ZsI-C5eX" alt="Action Comics">
-                    <div class="view-gallery">
+                    <div class="view-gallery-link">
                         <a href="/">
                             View Gallery
                         </a>
@@ -19,33 +19,33 @@
 
         <div class="container">
 
-            <div class="info-card">
+            <div class="info-content-card">
 
                 <h1>
                     Action Comics &num;1000: The Deluxe Edition
                 </h1>
 
-                <div class="infos">
+                <div class="informations">
 
-                    <div class="info">
+                    <div class="card-info">
                         US.Price: <span>&dollar;19.99</span>
                     </div>
 
-                    <div class="info">
+                    <div class="card-info">
                         AVAILABLE
                     </div>
 
-                    <div class="info">
+                    <div class="card-info">
                         <span>Check Availability &dtrif;</span> 
                     </div>
 
                 </div>
 
-                <div class="description">
+                <p class="card-description">
 
                     The celebration of 1,000 issues of Action Comics continues with a new, Deluxe Edition of the amazing comic that won raves when it hit comics shops in April! This hardcover includes all the stories from that issue, plus the tale by writer Paul Levitz and artist Neal Adams that appeared in the Action Comics: 80 Years Of Superman hardcover, as well as all the variant covers, design sketches by Jim Lee for Superman’s new look, scripts for the stories, the original art from the lost story featuring art by Curt Swan and more! Plus: a complete reprint of the stories that started it all—the Superman stories Action Comics #1 and 2 from 1938!
 
-                </div>
+                </p>
 
             </div>
 
@@ -64,7 +64,7 @@
         </div>
 
 
-        <div class="info-comic">
+        <div class="info-series">
 
             <div class="container">
 
